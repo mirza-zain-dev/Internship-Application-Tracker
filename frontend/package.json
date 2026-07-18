@@ -1,0 +1,8 @@
+{
+  "name": "internship-application-tracker-ui",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "start": "echo \"Point your React app at http://localhost:5000/api\"
+  }
+}
